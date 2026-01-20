@@ -1,4 +1,5 @@
-Project Title: "My Software Engineering Projiect" (Cloned Repo Version)
+Project Title: "My Software Engineering Project" 
+  -Merge of Cloned Repo and Orginal Repo
 Matthew Greenblatt
 This repository will contain all the files for the "Git and Version Control Fundamental assigment" for Software Engineering including a basic calculator, branches, etc.
 
@@ -14,4 +15,4 @@ Features:
     - Basic arithmetic operations (add, subtract, multiply, divide, power, square root)
     - error handling
     - user interface
-    - test file for calculator
+    - test file for calculator functions

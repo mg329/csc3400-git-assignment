@@ -20,7 +20,6 @@ def divide(a, b):
         raise TypeError("Inputs must be numbers")
     if b == 0:
         raise ValueError("Cannot divide by zero")
-    #repo version: divide two numbers
     return a/b
     
 def power(a, b):
