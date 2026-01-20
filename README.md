@@ -1,13 +1,15 @@
-Project Title: "CSC 3400 Software Engineering" (Cloned Repo Version)
+Project Title: "My Software Engineering Project" 
+  -Merge of Cloned Repo and Orginal Repo
 Matthew Greenblatt
 This repository will contain all the files for the "Git and Version Control Fundamental assigment" for Software Engineering including a basic calculator, branches, etc.
 
-Installion Instructions:
+Installation Instructions:
     1. Ensure Python 3 is installed
-    2. Clone the repository to your own personal directory
+    2. Clone the repository
+    3. Navigate into the project directory
 
-Usage Examples:
-    - Use the calculator, where you can select an operation, enter numeric values, and then view the results
+Usage:
+    - Run the calulator, where you can select an operation, enter the numeric values and view the result
 
 Features:
     - Basic arithmetic operations (add, subtract, multiply, divide, power, square root)
