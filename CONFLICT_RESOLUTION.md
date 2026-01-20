@@ -7,4 +7,4 @@ This trigged a merge conflict.
 
 - I ran "git mergetool"
 - View difference side-by-side
-- Choose to keep message as: "Original repo version: divide two numbers"
+- Choose to keep message as: "repo version: divide two numbers"
