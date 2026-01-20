@@ -3,6 +3,18 @@ Project Title: "My Software Engineering Project"
 Matthew Greenblatt
 This repository will contain all the files for the "Git and Version Control Fundamental assigment" for Software Engineering including a basic calculator, branches, etc.
 
+Project Status:
+    -This project has been finalized and all features have been implemented.
+
+    V1.0.0
+
+    This Version Includes:
+        -Calculator operations
+        -Command-line user interface for calculator
+        -comprehensive error handling
+        -test file
+        -Git workflow documentation
+
 Installation Instructions:
     1. Ensure Python 3 is installed
     2. Clone the repository
